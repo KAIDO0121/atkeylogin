@@ -16,8 +16,8 @@ ATKey.Login is a software + SaaS to target on SMB, Prosumer or SOHO who stays Wi
 
 - ATKey.Login Windows app: download to install on devices (Win32/x64/ARM64)
   
-# User flow
-[![Watch the video](https://img.youtube.com/vi/9XW_o3A0IyA/maxresdefault.jpg)](https://www.youtube.com/watch?v=TfOkf5djQaY)
+# TL;DR
+[![Watch the video](https://img.youtube.com/vi/TfOkf5djQaY/maxresdefault.jpg)](https://www.youtube.com/watch?v=TfOkf5djQaY)
 
 # Architecture ([More Detail](https://docs.google.com/presentation/d/1GgqQmz7cbQRJk623J-PD_hBjZfdUFc4b-srt8kjhL7s/edit?usp=sharing))
 ![alt text](https://imgur.com/wNLu4xD.png)
